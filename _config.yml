@@ -82,15 +82,13 @@ content:
 #        quote: >
 #          Short overview of the project (optional)
         description: |
-          <br>**1. 주제**
-          - TagGame - 술자리 게임 서비스
+          <br>**1. 주제: TagGame - 술자리 게임 서비스**
           
-          <br>**2. 프로젝트 기간** 
-          - 24.11 ~ 24.12
+          <br>**2. 프로젝트 기간: 24.11 ~ 24.12**
           
           <br>**3. Stack**
-          - Java, Spring Boot
-          - JSP, MySQL
+          - **Java, Spring Boot**
+          - **JSP, MySQL**
           
           <br>**4. 내가 구현한 내용**
           - 
