@@ -43,8 +43,11 @@ about_content: | # this will include new lines to allow paragraphs
   저는 Java 관심을 갖고 있고, 현재 백엔드 및 DevOps 관련 툴에 대해 관심을 갖고 있습니다.
   
   LANGUAGE: Java, Python
+  
   DATABASE: MySQL, PostgreSQL, Redis
+  
   SKILLS: Spring Boot, JPA, Docker, Security(JWT, OAuth2), Github Actions, Batch, Kafka, Nginx
+  
   Experience: <a href="https://velog.io/@duddnddnfl/Kubernetes-%EC%96%B4%EB%82%98%EB%8D%94-%ED%81%B4%EB%9E%98%EC%8A%A4">Kubernetes (Helm, ArgoCD)</a>, <a href="https://www.notion.so/19f7b21b5b0780949ca3f41e4f9736e6?source=copy_link">AI(Tensorflow, Pytorch)</a>
 
 #  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
