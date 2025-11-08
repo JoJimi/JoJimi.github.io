@@ -70,35 +70,54 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        border: weak  # Value of `weak` will display a weak border below this item. # Any 
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: 맞춤형 레시피 추천 서비스
-        link: https://github.com/JoJimi/RecipeMatch_Backend
-        link_text: Link Text
+        title: 팀 프로젝트 1
+#        link: https://github.com/JoJimi/RecipeMatch_Backend
+#        link_text: Link Text
         additional_links:
-          - title: 맞춤형 레시피 추천 서비스
+          - title: TagGame - 술자리 게임 서비스
             icon: fab fa-github
-            url: https://github.com/JoJimi/RecipeMatch_Backend
+            url: https://github.com/JoJimi/TagGame
 #        quote: >
 #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          ### 주제
+          - TagGame - 술자리 게임 서비스
 
         content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: 주식 관련 뉴스 서비스
-        link: https://github.com/JoJimi/NotificationTick
-        link_text: Link Text
+        title: 팀 프로젝트 2
+        #        link: https://github.com/JoJimi/NotificationTick
+        #        link_text: Link Text
         additional_links:
-          - title: 주식 관련 뉴스 서비스
+          - title: RecipeMatch - 맞춤형 레시피 추천 서비스
+            icon: fab fa-github
+            url: https://github.com/JoJimi/RecipeMatch_Backend
+        #        quote: >
+        #          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          ### 주제
+          - RecipeMatch - 맞춤형 레시피 추천 서비스
+
+        content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: 개인 프로젝트 1
+#        link: https://github.com/JoJimi/NotificationTick
+#        link_text: Link Text
+        additional_links:
+          - title: 주식 관련 뉴스 알림 서비스
             icon: fab fa-github
             url: https://github.com/JoJimi/NotificationTick
         #        quote: >
         #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          ### 주제
+          - Notification - 주식 관련 뉴스 알림 서비스
 
   - title: Experience
     layout: list
