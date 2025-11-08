@@ -6,11 +6,12 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: 조영웅
+name: 조영웅 (JO YEONGUNG)
 title: Backend Engineer
 email: duddnddnfl@naver.com
-# email_title: Email (Email title override)
+phone: 010-4022-9331
 blog: https://velog.io/@duddnddnfl
+# email_title: Email (Email title override)
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
@@ -20,10 +21,10 @@ darkmode: false
 github_username:  JoJimi
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+#   icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+#   url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -37,16 +38,22 @@ additional_links:
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs
+about_content: | # this will include new lines to allow paragraphs  
+  안녕하세요, 저는 2001년생 한국공학대학교 재학 중인 조영웅이라고 합니다.
+  저는 Java 관심을 갖고 있고, 현재 백엔드 및 DevOps 관련 툴에 대해 관심을 갖고 있습니다.
   
-  
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  LANGUAGE: Java, Python
+  DATABASE: MySQL, PostgreSQL, Redis
+  SKILLS: Spring Boot, JPA, Docker, Security(JWT, OAuth2), Github Actions, Batch, Kafka, Nginx
+  Experience: <a href="https://velog.io/@duddnddnfl/Kubernetes-%EC%96%B4%EB%82%98%EB%8D%94-%ED%81%B4%EB%9E%98%EC%8A%A4">Kubernetes (Helm, ArgoCD)</a>, <a href="https://www.notion.so/19f7b21b5b0780949ca3f41e4f9736e6?source=copy_link">AI(Tensorflow, Pytorch)</a>
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+#  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+
+#  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
+#    - Lists
+#    - Tables
+#    - <a href="google.com">Links</a>
+#    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
