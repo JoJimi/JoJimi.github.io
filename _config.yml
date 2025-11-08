@@ -38,7 +38,7 @@ github_username:  JoJimi
 # About Section
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
-about_content: | # this will include new lines to allow paragraphs  
+about_content: |
   안녕하세요, 저는 백엔드 & DevOps 지향 개발자인 **조영웅**이라고 합니다.  
   
   **LANGUAGE** 
