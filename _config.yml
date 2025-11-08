@@ -41,18 +41,14 @@ about_profile_image: images/profile.jpg
 about_content: |
   **안녕하세요, 저는 백엔드 & DevOps 지향 개발자인 조영웅입니다.**<br><br>
  
-  **1. LANGUAGE** 
-    - Java, Python  
-  
-  **2. DATABASE** 
-    - MySQL, PostgreSQL, Redis  
-  
-  **3. SKILLS** 
+  **Stack** 
+    - Java, Python 
+    - MySQL, PostgreSQL, Redis
     - Spring Boot, JPA, Security(JWT, OAuth2)
     - Docker, Github Actions
     - Batch, Kafka, Nginx  
   
-  **4. Experience** 
+  **Experience** 
     - <a href="https://velog.io/@duddnddnfl/Kubernetes-%EC%96%B4%EB%82%98%EB%8D%94-%ED%81%B4%EB%9E%98%EC%8A%A4">Kubernetes (Helm, ArgoCD)</a>
     - <a href="https://www.notion.so/19f7b21b5b0780949ca3f41e4f9736e6?source=copy_link">AI(Tensorflow, Pytorch) 관련 코드 유지보수</a>  
 
@@ -109,11 +105,9 @@ content:
         #        quote: >
         #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          <br>**1. 주제**
-          - RecipeMatch - 맞춤형 레시피 추천 서비스
+          <br>**1. 주제: RecipeMatch - 맞춤형 레시피 추천 서비스**
           
-          <br>**2. 프로젝트 기간** 
-          - 24.11 ~ 25.06
+          <br>**2. 프로젝트 기간: 24.11 ~ 25.06**
           
           <br>**3. Stack**
           - Java, Spring Boot
@@ -141,11 +135,9 @@ content:
         #        quote: >
         #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          **1. 주제**
-          - NotificationTick - 주식 관련 뉴스 알림 서비스
+          **1. 주제: NotificationTick - 주식 관련 뉴스 알림 서비스**
           
-          <br>**2. 프로젝트 기간** 
-          - 25.07 ~ 25.10 
+          <br>**2. 프로젝트 기간: 25.07 ~ 25.10**
           
           <br>**3. Stack**
           - Java, Spring Boot
