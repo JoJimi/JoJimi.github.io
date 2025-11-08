@@ -39,7 +39,7 @@ github_username:  JoJimi
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: |
-  안녕하세요, 저는 백엔드 & DevOps 지향 개발자인 **조영웅**이라고 합니다.<br><br>
+  안녕하세요, 저는 백엔드 & DevOps 지향 개발자인 **조영웅**입니다.<br><br>
  
   **1. LANGUAGE** 
     - Java, Python  
@@ -72,18 +72,31 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title:
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        title: 맞춤형 레시피 추천 서비스
+        link: https://github.com/JoJimi/RecipeMatch_Backend
         link_text: Link Text
         additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          - title: 맞춤형 레시피 추천 서비스
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            url: https://github.com/JoJimi/RecipeMatch_Backend
+#        quote: >
+#          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+
+        content:
+      - layout: left
+        border: weak  # Value of `weak` will display a weak border below this item. # Any
+        # other value (or no value) means no border will be displayed
+        title: 주식 관련 뉴스 서비스
+        link: https://github.com/JoJimi/NotificationTick
+        link_text: Link Text
+        additional_links:
+          - title: 주식 관련 뉴스 서비스
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+            url: https://github.com/JoJimi/NotificationTick
+        #        quote: >
+        #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
 
@@ -98,18 +111,20 @@ content:
 #        quote: >
 #          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          <a href="https://www.notion.so/19f7b21b5b0780949ca3f41e4f9736e6?source=copy_link">관련 포트폴리오</a>
+          
+          
+          <a href="https://www.notion.so/19f7b21b5b0780949ca3f41e4f9736e6?source=copy_link">포트폴리오</a>
 
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
+        title: 한국공학대학교
+        sub_title: 컴퓨터공학과 소프트웨어전공 학부생
+        caption: 2020.03 - 2026.02
+#        quote: >
+#          Short institution or course description (optional)
+        description: | 
           Description of qualification
   - title: A Little More About Me
     layout: text
