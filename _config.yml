@@ -85,7 +85,7 @@ content:
           ### 주제
           - TagGame - 술자리 게임 서비스
 
-        content:
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
@@ -102,7 +102,7 @@ content:
           ### 주제
           - RecipeMatch - 맞춤형 레시피 추천 서비스
 
-        content:
+
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
