@@ -81,22 +81,21 @@ content:
             url: https://github.com/JoJimi/TagGame
 #        quote: >
 #          Short overview of the project (optional)
-        description: | 
-          **1. 주제**
-          - TagGame - 술자리 게임 서비스 <br>
-           
-          **2. 프로젝트 기간: ** 
-          - 24.11 ~ 24.12 (3주) <br>
-           
-          **3. SKILLS: **
-          - Java, Spring Boot, JSP, MySQL <br>
-           
-          **4. 프로젝트 내용**
-          - 
-          - 
+        description: |
+          <br>**1. 주제**
+          - TagGame - 술자리 게임 서비스
+          
+          <br>**2. 프로젝트 기간** 
+          - 24.11 ~ 24.12
+          
+          <br>**3. SKILLS**
+          - Java, Spring Boot
+          - JSP, MySQL
+          
+          <br>**4. 내가 구현한 내용**
           - 
           
-          **5. 포트폴리오**
+          <br>**5. 포트폴리오**
           - 
 
       - layout: left
@@ -112,8 +111,23 @@ content:
         #        quote: >
         #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          **주제**
+          <br>**1. 주제**
           - RecipeMatch - 맞춤형 레시피 추천 서비스
+          
+          <br>**2. 프로젝트 기간** 
+          - 24.11 ~ 25.06
+          
+          <br>**3. SKILLS**
+          - Java, Spring Boot
+          - JPA, Security(JWT, OAuth2)
+          - MySQL, Redis
+          - Docker, Github Actions, AWS EC2
+          
+          <br>**4. 내가 구현한 내용**
+          - 
+          
+          <br>**5. 포트폴리오**
+          - 
 
 
       - layout: left
@@ -123,14 +137,30 @@ content:
 #        link: https://github.com/JoJimi/NotificationTick
 #        link_text: Link Text
         additional_links:
-          - title: 주식 관련 뉴스 알림 서비스
+          - title: NotificationTick - 주식 관련 뉴스 알림 서비스
             icon: fab fa-github
             url: https://github.com/JoJimi/NotificationTick
         #        quote: >
         #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          **주제**
-          - Notification - 주식 관련 뉴스 알림 서비스
+          **1. 주제**
+          - NotificationTick - 주식 관련 뉴스 알림 서비스
+          
+          <br>**2. 프로젝트 기간** 
+          - 25.07 ~ 25.10 
+          
+          <br>**3. SKILLS**
+          - Java, Spring Boot
+          - JPA, Batch, Security(JWT, OAuth2)
+          - PostgreSQL, Redis
+          - Kafka, SSE, Nginx
+          - Docker, Github Actions, AWS EC2
+          
+          <br>**4. 내가 구현한 내용**
+          - 
+          
+          <br>**5. 포트폴리오**
+          - 
 
   - title: Experience
     layout: list
