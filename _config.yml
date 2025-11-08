@@ -191,17 +191,17 @@ content:
       - layout: top-right
         title: 한국공학대학교
         sub_title: 컴퓨터공학과 소프트웨어전공 학부생
-        caption: 2020.03 - 2026.02
+        caption: 2020.03 - 2026.02 (졸업 예정)
 #        quote: >
 #          Short institution or course description (optional)
-        description: | 
-          Description of qualification
-  - title: A Little More About Me
-    layout: text
-    content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
+#        description: |
+#          Description of qualification
+#  - title: A Little More About Me
+#    layout: text
+#    content: | # this will include new lines to allow paragraphs
+#      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+#      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
 
 # Footer
 footer_show_references: true
