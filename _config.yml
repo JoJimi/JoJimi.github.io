@@ -111,7 +111,16 @@ content:
 #        quote: >
 #          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
+          ### 주제
+          - CCTV를 통한 AI 기반 군중, 화재, 차량 분석과 IOT 장치 간 통신 시스템 Docker 컨테이너화, 코드 테스트 및 유지보수
           
+          ### 실습 환경
+          - **하드웨어**: Nvidia Orin NX
+          - **운영체제**: Ubuntu 20.04 LTS
+          - **개발 언어 및 프레임워크**: Python 3.8.10, PyTorch, TensorFlow, YOLOv8, FireNet, p2pnet, vgg16
+          - **통신 방식**: 고성능 **TCP/IP 소켓 기반 데이터 송수신**
+          - **추가 모듈**: LED, 오디오, 기상 센서(RS485, Modbus 프로토콜)
+          - **컨테이너화 도구**: Docker          
           
           <a href="https://www.notion.so/19f7b21b5b0780949ca3f41e4f9736e6?source=copy_link">포트폴리오</a>
 
