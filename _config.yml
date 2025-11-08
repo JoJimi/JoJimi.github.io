@@ -39,7 +39,7 @@ github_username:  JoJimi
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: |
-  안녕하세요, 저는 백엔드 & DevOps 지향 개발자인 **조영웅**이라고 합니다.  
+  안녕하세요, 저는 백엔드 & DevOps 지향 개발자인 **조영웅**이라고 합니다. 
   
   **LANGUAGE** 
     - Java, Python
@@ -98,7 +98,6 @@ content:
 #        quote: >
 #          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          Description of role  
           <a href="https://www.notion.so/19f7b21b5b0780949ca3f41e4f9736e6?source=copy_link">관련 포트폴리오</a>
 
   - title: Education
