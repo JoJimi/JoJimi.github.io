@@ -87,10 +87,12 @@ content:
           - **JSP, MySQL**
           
           <br>**4. 내가 구현한 내용**
-          - 
+          - 초기 프로젝트 생성 및 MySQL 연결
+          - MVC 패턴에 맞게 백엔드 로직 구현
+          - 해당 게임 UI 로직 구현(랜덤박스 게임, 아파트 게임)
           
-          <br>**5. 포트폴리오**
-          - 
+          <br>**5. 포트폴리오**  
+          https://www.notion.so/19f7b21b5b07807aa663fdacfd9143f3?source=copy_link
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
@@ -116,9 +118,22 @@ content:
           - **Docker, Github Actions, AWS EC2**
           
           <br>**4. 내가 구현한 내용**
-          - 
+          - 요구사항 설계 및 ERD 설계
+          - 초기 프로젝트 생성 및 MySQL 연결
+          - 로그인 기능 구현(JWT, OAuth2(Google), Security, Redis)
+          - CI/CD 파이프라인 설계 및 구현 (Github Actions, Docker, AWS EC2, Slack)
+          - 레시피 정보 공공 데이터 Open API DB에 매핑
+          - JPA 사용해서 DDD 설계 및 구현
+          - 레시피 정보 보여주는 로직 구현
+            - 레시피 입력 정보에 따른 난이도 자동 설정
+            - 네이버 검색 기반 API 기반 상품 추천 기능 (사용자 정보 기반 보유하지 않은 재료에 대한 상품 추천)
+          - 레시피 수정, 사용자가 작성한 레시피 확인 기능 구현
+          - 레시피 검색 기능 구현 (좋아요 순, 즐겨찾기 순 내림차순 정렬)
+          - 커뮤니티, 별점, 댓글, 사용자 정보 업데이트, 레시피 정보 확인 기능 REST API 구현(MVC 패턴 기반 - Service, Repository, Entity) + Swagger ui 테스트
+          - 네이버 검색 기반 API 기반 상품 추천 기능 (상품 검색 기반)
           
-          <br>**<a href="https://www.notion.so/19f7b21b5b078027aba1d4b6f4c07891?source=copy_link">### 5. 포트폴리오</a>**
+          <br>**5. 포트폴리오**  
+          https://www.notion.so/19f7b21b5b078027aba1d4b6f4c07891?source=copy_link
 
 
       - layout: left
@@ -144,12 +159,10 @@ content:
           - **PostgreSQL, Redis**
           - **Kafka, SSE, Nginx**
           - **Docker, Github Actions, AWS EC2**
+          - **Prometheus, Grafana**
           
-          <br>**4. 내가 구현한 내용**
-          - 
-          
-          <br>**5. 포트폴리오**
-          - 
+          <br>**4. 포트폴리오**  
+          https://www.notion.so/27a7b21b5b07809ea7c5e64d1e027896?source=copy_link
 
   - title: Experience
     layout: list
