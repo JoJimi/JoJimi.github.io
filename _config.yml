@@ -69,8 +69,8 @@ content:
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
         title: 팀 프로젝트(1)
-#        link: https://github.com/JoJimi/RecipeMatch_Backend
-#        link_text: Link Text
+        link: https://github.com/JoJimi/TagGame
+        link_text: TagGame - 술자리 게임 서비스
         additional_links:
           - title: TagGame - 술자리 게임 서비스
             icon: fab fa-github
@@ -78,7 +78,7 @@ content:
 #        quote: >
 #          Short overview of the project (optional)
         description: |
-          <br>**1. 주제: TagGame - 술자리 게임 서비스**
+          <br>**1. 주제: TagGame - 술자리 게임 서비스 (4인)**
           
           <br>**2. 프로젝트 기간: 24.11 ~ 24.12**
           
@@ -91,15 +91,14 @@ content:
           - MVC 패턴에 맞게 백엔드 로직 구현
           - 해당 게임 UI 로직 구현(랜덤박스 게임, 아파트 게임)
           
-          <br>**5. 포트폴리오**  
-          https://www.notion.so/19f7b21b5b07807aa663fdacfd9143f3?source=copy_link
+          <br><a href="https://www.notion.so/19f7b21b5b07807aa663fdacfd9143f3?source=copy_link">포트폴리오</a>
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: 팀 프로젝트(2)
-        #        link: https://github.com/JoJimi/NotificationTick
-        #        link_text: Link Text
+        link: https://github.com/JoJimi/NotificationTick
+        link_text: RecipeMatch - 맞춤형 레시피 추천 서비스
         additional_links:
           - title: RecipeMatch - 맞춤형 레시피 추천 서비스
             icon: fab fa-github
@@ -107,7 +106,7 @@ content:
         #        quote: >
         #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          <br>**1. 주제: RecipeMatch - 맞춤형 레시피 추천 서비스**
+          <br>**1. 주제: RecipeMatch - 맞춤형 레시피 추천 서비스(4인)**
           
           <br>**2. 프로젝트 기간: 24.11 ~ 25.06**
           
@@ -132,16 +131,14 @@ content:
           - 커뮤니티, 별점, 댓글, 사용자 정보 업데이트, 레시피 정보 확인 기능 REST API 구현(MVC 패턴 기반 - Service, Repository, Entity) + Swagger ui 테스트
           - 네이버 검색 기반 API 기반 상품 추천 기능 (상품 검색 기반)
           
-          <br>**5. 포트폴리오**  
-          https://www.notion.so/19f7b21b5b078027aba1d4b6f4c07891?source=copy_link
-
+          <br><a href="https://www.notion.so/19f7b21b5b078027aba1d4b6f4c07891?source=copy_link">포트폴리오</a>
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
         title: 개인 프로젝트 1
-#        link: https://github.com/JoJimi/NotificationTick
-#        link_text: Link Text
+        link: https://github.com/JoJimi/NotificationTick
+        link_text: NotificationTick - 주식 관련 뉴스 알림 서비스
         additional_links:
           - title: NotificationTick - 주식 관련 뉴스 알림 서비스
             icon: fab fa-github
@@ -149,7 +146,7 @@ content:
         #        quote: >
         #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          **1. 주제: NotificationTick - 주식 관련 뉴스 알림 서비스**
+          **1. 주제: NotificationTick - 주식 관련 뉴스 알림 서비스(1인)**
           
           <br>**2. 프로젝트 기간: 25.07 ~ 25.10**
           
@@ -161,7 +158,7 @@ content:
           - **Docker, Github Actions, AWS EC2**
           - **Prometheus, Grafana**
           
-          <br>**4. 포트폴리오**  
+          <br><a href="https://www.notion.so/27a7b21b5b07809ea7c5e64d1e027896?source=copy_link">포트폴리오</a>
           https://www.notion.so/27a7b21b5b07809ea7c5e64d1e027896?source=copy_link
 
   - title: Experience
