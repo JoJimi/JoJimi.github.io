@@ -39,7 +39,7 @@ github_username:  JoJimi
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: |
-  안녕하세요, 저는 백엔드 & DevOps 지향 개발자인 **조영웅**이라고 합니다. 
+  안녕하세요, 저는 백엔드 & DevOps 지향 개발자인 **조영웅**이라고 합니다.<br><br>
  
   **1. LANGUAGE** 
     - Java, Python  
