@@ -39,7 +39,7 @@ github_username:  JoJimi
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: |
-  안녕하세요, 저는 백엔드 & DevOps 지향 개발자인 **조영웅**입니다.<br><br>
+  **안녕하세요, 저는 백엔드 & DevOps 지향 개발자인 조영웅입니다.**<br><br>
  
   **1. LANGUAGE** 
     - Java, Python  
@@ -72,7 +72,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
                       # other value (or no value) means no border will be displayed
-        title: 팀 프로젝트 1
+        title: 팀 프로젝트(1)
 #        link: https://github.com/JoJimi/RecipeMatch_Backend
 #        link_text: Link Text
         additional_links:
@@ -81,15 +81,28 @@ content:
             url: https://github.com/JoJimi/TagGame
 #        quote: >
 #          Short overview of the project (optional)
-        description: | # this will include new lines to allow paragraphs
-          ### 주제
-          - TagGame - 술자리 게임 서비스
-
+        description: | 
+          **1. 주제**
+          - TagGame - 술자리 게임 서비스 <br>
+           
+          **2. 프로젝트 기간: ** 
+          - 24.11 ~ 24.12 (3주) <br>
+           
+          **3. SKILLS: **
+          - Java, Spring Boot, JSP, MySQL <br>
+           
+          **4. 프로젝트 내용**
+          - 
+          - 
+          - 
+          
+          **5. 포트폴리오**
+          - 
 
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any
         # other value (or no value) means no border will be displayed
-        title: 팀 프로젝트 2
+        title: 팀 프로젝트(2)
         #        link: https://github.com/JoJimi/NotificationTick
         #        link_text: Link Text
         additional_links:
@@ -99,7 +112,7 @@ content:
         #        quote: >
         #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          ### 주제
+          **주제**
           - RecipeMatch - 맞춤형 레시피 추천 서비스
 
 
@@ -116,7 +129,7 @@ content:
         #        quote: >
         #          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          ### 주제
+          **주제**
           - Notification - 주식 관련 뉴스 알림 서비스
 
   - title: Experience
@@ -130,10 +143,10 @@ content:
 #        quote: >
 #          Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
-          ### 주제
+          **주제**
           - CCTV를 통한 AI 기반 군중, 화재, 차량 분석과 IOT 장치 간 통신 시스템 Docker 컨테이너화, 코드 테스트 및 유지보수
           
-          ### 실습 환경
+          **실습 환경**
           - **하드웨어**: Nvidia Orin NX
           - **운영체제**: Ubuntu 20.04 LTS
           - **개발 언어 및 프레임워크**: Python 3.8.10, PyTorch, TensorFlow, YOLOv8, FireNet, p2pnet, vgg16
